@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 //Feel free to customize my bot informations to yours. Starting from this point
 //owmner v card
-global.ytname = "YT: ElitePro" //ur yt chanel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.ytname = "𝘿𝙖𝙧𝙠 𝙁𝙖𝙣𝙩𝙖𝙨𝙮 👑" //ur yt chanel name
+global.socialm = "GitHub: 𝘿𝙖𝙧𝙠 𝙁𝙖𝙣𝙩𝙖𝙨𝙮 👑" //ur github or insta name
+global.location = "Baruipur, Kolkata" //ur location
 
 //new settings 
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
-global.websitex = "https://youtu.be/@elitepro-empire"
+global.botname = '𝘿𝙖𝙧𝙠-PRO-V2' //ur bot name
+global.ownernumber = '919382758804' //ur owner number
+global.ownername = '𝘿𝙖𝙧𝙠 -PRO-V2' //ur owner name
+global.websitex = "https://www.instagram.com/official_rik_2k?igsh=NGc1OHp4aWRvcGdk"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
 
 global.themeemoji = '👨🏼‍💻'
-global.wm = "ELITE-PRO-V2"
+global.wm = "𝘿𝙖𝙧𝙠-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "𝘿𝙖𝙧𝙠-PRO-V2\n\n+919382758804"
+global.creator = "919382758804@r.whatsapp.net"
 global.xprefix = '.' //set any prefix 
 global.premium = ["2348109263390"] // Premium User
 //Stop here. Thanks for choosing ELITEPRO.
@@ -48,7 +48,7 @@ global.mess = {
 
 //text bug
 global.xbugtex = {
-xtxt: '👨🏼‍💻ELITE-PRO-V2👨🏼‍💻',
+xtxt: '👨🏼‍💻𝘿𝙖𝙧𝙠 -PRO-V2👨🏼‍💻',
 }
 
 
